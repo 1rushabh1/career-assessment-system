@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://career-assessment-system.onrender.com/api"
+  baseURL: "https://career-assessment-system-11.onrender.com/api"
 });
 
 // Automatically attach token
